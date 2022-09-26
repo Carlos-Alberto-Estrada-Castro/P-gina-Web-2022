@@ -1,0 +1,314 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+
+}
+header{
+	width: 100%;
+	height: 110px;
+	background-color: green;
+}
+
+.cab_nav{
+	width: 100%;
+	padding: 20px;
+	text-align: right;
+	position: relative;
+	top: 0px;
+
+}
+
+.cab_nav ul li{
+ list-style: none;
+ display: inline-block;
+ padding: 26px 8.5px;
+ font-size: 20px;
+ font-family: sans-serif;
+ cursor: pointer;
+
+}
+
+.cab_nav ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.nomb_logo{
+	font-size: 24.5px;
+	list-style: none;
+	padding: 0px 0px;
+	float: left;
+	position: relative;
+	transform: translateX(90.5px) translateY(25px);
+	color: white;
+	font-family: sans-serif;
+}
+
+.logo_img{
+	width: 80px;
+	position: absolute;
+	transform: translateX(-1637%) translateY(-1.5%);
+}
+
+.contenedor{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-29%) translateY(-32.5%);
+	padding: 15px 10px;
+	border: solid;
+	background-color: rgb(220, 20, 60, 0.8);
+	text-align: justify;
+}
+
+.titulo_cont{
+	font-size: 40px;
+	text-align: center;
+	padding: 20px 10px;
+	color: white;
+}
+
+.parrafo_cont{
+	font-size: 20px;
+	text-align: justify;
+	color: white;
+}
+
+.pie{
+	background-color: green;
+	margin-top: 41%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+
+.pie_p{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0:hover.not(.marca_1) {
+	background-color: #555;
+}
+
+.marca_0{
+  background-color: skyblue;
+}
+
+.marca_1:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3:hover{
+background-color: #555;
+color: white;	
+}
+.marca_4:hover{
+background-color: #555;
+color: white;	
+}
+.marca_5:hover{
+background-color: #555;
+color: white;	
+}
+.marca_6:hover{
+background-color: #555;
+color: white;	
+}
+.marca_7:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9:hover{
+background-color: #555;
+color: white;	
+}
+
+
+.video{
+	position: fixed;
+	min-width: 100%;
+	min-width: 100%;
+	top: 50%;
+	left: 50%;
+	transform: translateY(-50%) translateX(-50%);
+	z-index: -1;
+}
+
+.lateral{
+	width: 20%;
+	background-color: rgb(0, 100, 0, 0.8);
+	padding: 8.5px 22px;
+	float: left;
+	min-height: 530px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 1.5px;
+  text-align: justify;
+  width: 300px;
+  color: white;
+}
+
+
+.marca_0_0:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_0:hover.not(.marca_1_0) {
+	background-color: #555;
+}
+
+.marca_1_0{
+  background-color: skyblue;
+}
+
+.marca_2_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_4_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_5_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_6_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_7_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8_0:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_0:hover{
+background-color: #555;
+color: white;	
+}
+
+.contenedor_2{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-30%) translateY(-40%);
+	padding: 15px 50px;
+	border: none;
+	background-color: transparent;
+	text-align: justify;
+}
+
+.titulo_cont_2{
+	font-size: 80px;
+	text-align: center;
+	padding: 32.5px 10px;
+	color: white;
+}
+
+.parrafo_cont_2{
+	font-size: 45px;
+	text-align: justify;
+	color: black;
+}
+
+.color_0{
+color: white;
+font-size: 25px;
+
+}
+
+.color_1{
+color: white;
+font-size: 25px;	
+}
+
+.color_2{
+color: white;
+font-size: 25px;	
+}
+
+.color_3{
+color: white;
+font-size: 25px;	
+}
+
+.color_4{
+color: white;
+font-size: 25px;	
+}
+
+.color_5{
+color: white;	
+font-size: 25px;
+}
+
+.color_6{
+color: white;
+font-size: 25px;	
+}
+
+.color_7{
+color: white;
+font-size: 25px;	
+}
+
+.color_8{
+color: white;	
+font-size: 25px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+.fondo_pan{
+	position: fixed;
+	min-width: 25%;
+	min-width: 25%;
+	top: 50%;
+	left: 50%;
+	transform: translateY(-50%) translateX(-50%);
+	z-index: -1;
+}
+
+.lateral_2{
+	width: 20%;
+	background-color: transparent;
+	padding: 8.5px 6.5px;
+	float: left;
+	min-height: 530px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 1.5px;
+  text-align: justify;
+  width: 500px;
+  color: white;
+}
+
+ul a{
+	color: white;
+	text-decoration: none;
+}
+

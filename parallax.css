@@ -1,0 +1,1101 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+
+}
+header{
+	width: 100%;
+	height: 110px;
+	background-color: green;
+	position: fixed;
+}
+.cab_nav{
+	width: 100%;
+	padding: 20px;
+	text-align: right;
+	position: relative;
+	top: 0px;
+
+}
+.cab_nav ul li{
+ list-style: none;
+ display: inline-block;
+ padding: 26px 8.5px;
+ font-size: 20px;
+ font-family: sans-serif;
+ cursor: pointer;
+
+}
+.cab_nav ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.nomb_logo{
+	font-size: 24.5px;
+	list-style: none;
+	padding: 0px 0px;
+	float: left;
+	position: relative;
+	transform: translateX(90.5px) translateY(25px);
+	color: white;
+	font-family: sans-serif;
+}
+.logo_img{
+	width: 80px;
+	position: absolute;
+	transform: translateX(-1637%) translateY(-1.5%);
+}
+.pie{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p{
+	color: white;
+	text-align: center;
+}
+
+/*parallax 1*/
+
+
+.fondo_prin{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/logo sublime.jpg');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+
+.seccion_1{
+	background: url('Página web/sublime 4.jpg');
+	width: 100%;
+	height: 150vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_1{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+
+}
+
+.secc_1{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+
+.títulos{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+
+.párrafos{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_1{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_1{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0_1:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_1:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_1:hover.not(.marca_2_1){
+  background-color: #555;
+}
+
+.marca_2_1{
+	background-color: skyblue;
+}
+
+.marca_3_1:hover{
+background-color: #555;
+color: white;	
+}
+.marca_4_1:hover{
+background-color: #555;
+color: white;	
+}
+.marca_5_1:hover{
+background-color: #555;
+color: white;	
+}
+.marca_6_1:hover{
+background-color: #555;
+color: white;	
+}
+.marca_7_1:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8_1:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_1:hover{
+background-color: #555;
+color: white;	
+}
+
+/*parallax 2*/
+
+.fondo_prin2{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/eti html.png');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_2{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f2{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_2{
+	background: url('Página web/HTML.png');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_2{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_2{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_2{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_2{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_2{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_2{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0_2:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_2:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_2:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_3_2:hover.not(.marca_3_2){
+  background-color: #555;
+}
+.marca_3_2{
+	background-color: skyblue;
+}
+
+.marca_4_2:hover{
+background-color: #555;
+color: white;	
+}
+.marca_5_2:hover{
+background-color: #555;
+color: white;	
+}
+.marca_6_2:hover{
+background-color: #555;
+color: white;	
+}
+.marca_7_2:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8_2:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_2:hover{
+background-color: #555;
+color: white;	
+}
+
+/*parallax 3*/
+
+
+.fondo_prin3{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/sonrisa.png');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_3{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f3{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_3{
+	background: url('Página web/HTML y CSS.jpg');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_3{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_3{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_3{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_3{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_3{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_3{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0_3:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_3:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_3:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_3:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_4_3:hover.not(.marca_4_3){
+  background-color: #555;
+}
+.marca_4_3{
+	background-color: skyblue;
+}
+
+.marca_5_3:hover{
+background-color: #555;
+color: white;	
+}
+.marca_6_3:hover{
+background-color: #555;
+color: white;	
+}
+.marca_7_3:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8_3:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_3:hover{
+background-color: #555;
+color: white;	
+}
+
+
+/*parallax 4*/
+
+
+.fondo_prin4{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/lluvia code.jpg');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_4{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f4{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_4{
+	background: url('Página web/code video.png');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_4{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_4{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_4{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_4{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_4{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_4{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0_4:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_4:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_4:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_4:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_4_4:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_5_4:hover.not(.marca_5_4){
+  background-color: #555;
+}
+.marca_5_4{
+	background-color: skyblue;
+}
+
+.marca_6_4:hover{
+background-color: #555;
+color: white;	
+}
+.marca_7_4:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8_4:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_4:hover{
+background-color: #555;
+color: white;	
+}
+
+
+
+/*parallax 5*/
+
+
+.fondo_prin5{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/packman.jpg');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_5{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f5{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_5{
+	background: url('Página web/Hosting.png');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_5{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_5{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_5{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_5{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_5{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_5{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0_5:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_5:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_5:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_5:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_4_5:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_5_5:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_6_5:hover.not(.marca_6_5){
+  background-color: #555;
+}
+.marca_6_5{
+	background-color: skyblue;
+}
+
+.marca_7_5:hover{
+background-color: #555;
+color: white;	
+}
+.marca_8_5:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_5:hover{
+background-color: #555;
+color: white;	
+}
+
+
+
+/*parallax 6*/
+
+
+.fondo_prin6{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/código.jpg');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_6{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f6{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_6{
+	background: url('Página web/menú.jpg');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_6{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_6{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_6{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_6{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_6{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_6{
+	color: white;
+	text-align: center;
+}
+
+
+.marca_0_6:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_6:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_6:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_6:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_4_6:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_5_6:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_6_6:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_7_6:hover.not(.marca_7_6){
+  background-color: #555;
+}
+.marca_7_6{
+	background-color: skyblue;
+}
+
+.marca_8_6:hover{
+background-color: #555;
+color: white;	
+}
+.marca_9_6:hover{
+background-color: #555;
+color: white;	
+}
+
+
+/*parallax 7*/
+
+
+.fondo_prin7{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/enlaces.jpg');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_7{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f7{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_7{
+	background: url('Página web/code.jpg');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_7{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_7{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_7{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_7{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_7{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_7{
+	color: white;
+	text-align: center;
+}
+
+
+
+.marca_0_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_7:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_4_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_5_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_6_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_7_7:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_8_7:hover.not(.marca_8_7){
+  background-color: #555;
+}
+.marca_8_7{
+	background-color: skyblue;
+}
+
+.marca_9_7:hover{
+background-color: #555;
+color: white;	
+}
+
+
+
+/*parallax 8*/
+
+.fondo_prin8{
+	width: 100%;
+	height: 100vh;
+	background: url('Página web/audio.jpg');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;	
+}
+.data_8{
+	font-size: 60px;
+	text-align: center;
+	padding: 300px 0px;
+	color: white;
+
+}
+.seccion_f8{
+	max-width: 1100px;
+	width: 90%;
+	overflow: hidden;
+	margin: auto;
+	color: black;
+	padding: 20px 0px;
+}
+.seccion_8{
+	background: url('Página web/taza.png');
+	width: 100%;
+	height: 110vh;
+	background-position: center;
+	position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+}
+
+.tutorial_8{
+	width: 100%;
+	height: 90vh;
+	position: relative, fixed;
+	padding: 10px 0px;
+	background-position: center;
+	z-index: -1;
+}
+
+.secc_8{
+	font-size: 60px;
+	text-align: center;
+	padding: 400px 0px;
+	color: white;
+}
+.títulos_8{
+	font-size: 35px;
+	text-align: center;
+	padding: 60px 0px;
+}
+.párrafos_8{
+	font-size: 20px;
+	padding: 0.5px;
+	text-align: justify;
+}
+
+.pie_8{
+	background-color: green;
+	margin-top: 0%;
+	width: 100%;
+	padding: 20px 0px;
+	position: relative;
+}
+.pie_p_8{
+	color: white;
+	text-align: center;
+}
+
+.marca_0_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_1_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_2_8:hover{
+background-color: #555;
+color: white;	
+}
+.marca_3_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_4_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_5_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_6_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_7_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_8_8:hover{
+background-color: #555;
+color: white;	
+}
+
+.marca_9_8:hover.not(.marca_9_8){
+  background-color: #555;
+}
+.marca_9_8{
+	background-color: skyblue;
+}
